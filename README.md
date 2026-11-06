@@ -1,4 +1,4 @@
-## Hey! I'm Tomas (✨Timm002✨)
+## Hey! I'm Tomás (✨Timm002✨)
 
 I'm an AI Engineer, fond of applying models in various realms. From audio to video, text to tables 🚀. 
 
