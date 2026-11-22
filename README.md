@@ -6,7 +6,7 @@ I'm an AI Engineer, fond of applying models in various realms. From audio to vid
 - 💬 Ask me about... anything really, who knows if that is the beginning for a new project 🤔
 - 📫 How to reach me:
   - <a href="mailto:tomas.cano.sc@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
-  - <a href="https://www.linkedin.com/in/tom%C3%A1s-cano-3467b123b/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
+  - <a href="https://www.linkedin.com/in/timm002/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
 
 ---
 ### Languages and tools
